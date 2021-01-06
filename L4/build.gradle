@@ -30,7 +30,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'L5.App'
+    mainClassName = 'L4.App'
 }
 
 run{

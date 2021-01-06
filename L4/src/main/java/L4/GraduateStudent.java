@@ -1,4 +1,4 @@
-package L5;
+package L4;
 
 public class GraduateStudent extends Student{
     private String supervisor;
